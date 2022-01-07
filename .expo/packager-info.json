@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 24206,
+  "expoServerNgrokUrl": "https://hm-25n.aycelabs.vibe.exp.direct",
+  "packagerNgrokUrl": "https://packager.hm-25n.aycelabs.vibe.exp.direct",
+  "ngrokPid": 24236,
+  "devToolsPort": 19002
+}

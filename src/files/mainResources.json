@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Recommendation!",
+        "type": "Custom",
+        "imageTitle": "Add"
+    },
+    {
+        "title": "Crisis Text Line",
+        "script":"Text connection with a Crisis Counselor trained to de-escalate a crisis situation through active listening and collaborative problem solving.",
+        "type":"Text",
+        "number":"741741",
+        "imageTitle": "CTL"
+    },
+    {
+        "title": "Sexual Assault #",
+        "script":"Connect with a trained staff member from a sexual assault service provider in your area that offers access to a range of free services.",
+        "type":"Phone",
+        "number":"1-800-656-4673",
+        "imageTitle": "SA"
+    },
+    {
+        "title": "Suicide Prevention #",
+        "script":"Provides free and confidential support through a local call center.",
+        "type":"Phone",
+        "number":"1-800-273-8255",
+        "imageTitle": "SP"
+    }
+]

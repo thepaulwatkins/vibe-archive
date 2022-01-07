@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Academics",
+        "script":"Are classes a little overwhelming? Have stories or questions on how to succeed? Find support here.",
+        "imageTitle":"Academics"
+    },
+    {
+        "title":"Gratitude",
+        "script":"What are your highlights? Who or what are you grateful for? Write it for yourself or share with others.",
+        "imageTitle":"Gratitude"
+    },
+    {
+        "title":"Animals + Nature",
+        "script":"Guess what? Animals and nature have a positive effect on our psyche. Bet you already knew that.",
+        "imageTitle":"Outside"
+    },
+    {
+        "title":"Creativity",
+        "script":"How do you de-stress? Photos, poetry, sketches, music? Share your work and discuss art here.",
+        "imageTitle":"Creativity"
+    }
+]

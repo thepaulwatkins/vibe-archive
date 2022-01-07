@@ -1,0 +1,17 @@
+[
+    {
+        "title": "POC + Wellness",
+        "script":"Are you a person of color? Share your experiences, questions, and tips to lift each other up.",
+        "imageTitle":"POC"
+    },
+    {
+        "title": "FLI + Wellness",
+        "script":"First-gen or low-income (FLI)? Need to talk about class? Connect and realize the power in your community.",
+        "imageTitle":"FLI"
+    },
+    {
+        "title": "LGBTQ + Wellness",
+        "script":"Identify along the LGBTQ+ spectrum? Share your experiences, questions, and tips to support each other.",
+        "imageTitle":"LGBTQ"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "title":"Depression",
+        "script":"What is depression? How do you handle sadness? How can you help others? You're not alone in this.",
+        "imageTitle":"Depression"
+    },
+    {
+        "title": "Anxiety",
+        "script":"This space is dedicated to discussing and supporting our experiences with anxiety.",
+        "imageTitle":"Anxiety"
+    },
+    {
+        "title": "Relationships",
+        "script":"Where do we begin? If you need to discuss home, family, partners, etc., you already know this is the space.",
+        "imageTitle":"Relationships"
+    },
+    {
+        "title": "Grief",
+        "script":"Experiencing the loss of someone or something? Healing takes time. Feel free to process your thoughts here.",
+        "imageTitle":"Grief"
+    },
+    {
+        "title": "Eating + Wellness",
+        "script": "A place to share experiences and support on topics ranging from eating habits to eating disorders.",
+        "imageTitle":"Eating"
+    }
+]

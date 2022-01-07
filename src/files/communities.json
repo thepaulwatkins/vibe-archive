@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Academics",
+        "script":"Are classes a little overwhelming? Have stories or questions on how to succeed? Find support here.",
+        "imageTitle":"Academics"
+    },
+    {
+        "title":"Gratitude",
+        "script":"What are your highlights? Who or what are you grateful for? Write it for yourself or share with others.",
+        "imageTitle":"Gratitude"
+    },
+    {
+        "title":"Creativity",
+        "script":"How do you de-stress? Photos, poetry, sketches, music? Share your work and discuss art here.",
+        "imageTitle":"Creativity"
+    },
+    {
+        "title":"Depression",
+        "script":"How do you handle depression or sadness? How do you help others? You're not alone in this.",
+        "imageTitle":"Depression"
+    },
+    {
+        "title": "POC + Wellness",
+        "script":"Are you a person of color? Share your experiences, questions, and tips to lift each other up.",
+        "imageTitle":"POC"
+    },
+    {
+        "title": "Anxiety",
+        "script":"This space is dedicated to discussing and supporting our experiences with anxiety.",
+        "imageTitle":"Anxiety"
+    },
+    {
+        "title":"Animals + Nature",
+        "script":"Guess what? Animals and nature have a positive effect on our psyche. Bet you already knew that.",
+        "imageTitle":"Outside"
+    },
+    {
+        "title": "FLI + Wellness",
+        "script":"First-gen or low income (FLI)? Need to talk about class? Connect and realize the power in your community.",
+        "imageTitle":"FLI"
+    },
+    {
+        "title": "LGBTQ + Wellness",
+        "script":"Identify along the LGBTQ+ spectrum? Share your experiences, questions, and tips to support each other.",
+        "imageTitle":"LGBTQ"
+    },
+    {
+        "title": "Relationships",
+        "script":"Where do we begin? If you need to discuss home, family, partners, etc., you already know this is the space.",
+        "imageTitle":"Relationships"
+    },
+    {
+        "title": "Grief",
+        "script":"Experiencing the loss of someone or something? Healing takes time. Feel free to process your thoughts here.",
+        "imageTitle":"Grief"
+    },
+    {
+        "title": "Eating + Wellness",
+        "script": "A place to share experiences and support on topics ranging from eating habits to eating disorders.",
+        "imageTitle":"Eating"
+    }
+]

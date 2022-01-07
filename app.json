@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Vibe",
+    "description": "Peer support for mental health through local communities.",
+    "slug": "vibe",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.2.11",
+    "orientation": "portrait",
+    "icon": "./assets/vibe_app_icon.png",
+    "splash": {
+      "image": "./assets/vibe_splash_screen.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#4AA7B3"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.aycelabs.vibe",
+      "supportsTablet": false,
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "The app needs permission to your camera roll in order to add photos you've already taken for upload"
+      }
+    },
+    "android": {
+      "package": "com.aycelabs.vibe",
+      "versionCode": 24,
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "VIBRATE"
+      ]
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#4AA7B3"
+    }
+  }
+}

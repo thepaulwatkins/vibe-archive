@@ -1,0 +1,86 @@
+[
+    {
+        "title": "National Suicide Prevention Hotline",
+        "script":"Provides free and confidential support through a local call center.",
+        "type":"Phone",
+        "number":"1-800-273-8255"
+    },
+    {
+        "title": "Crisis Text Line",
+        "script":"Text connection with a Crisis Counselor trained to de-escalate a crisis situation through active listening and collaborative problem solving.",
+        "type":"Text",
+        "number":"741-741"
+    },
+    {
+        "title":"National Sexual Assault Hotline",
+        "script":"Connect with a trained staff member from a sexual assault service provider in your area that offers access to a range of free services.",
+        "type":"Phone",
+        "number":"1-800-656-4673"
+    },
+    {
+        "title":"The Trevor Project",
+        "script":"A crisis intervention and suicide prevention phone service specifically centered on LGBTQ youth.",
+        "type":"Phone",
+        "number":"1-866-488-7386"
+    },
+    {
+        "title":"SAMHSA Treatment Referral Helpline",
+        "script":"Speak to a live professional to get general information on mental health and treatment centers in your area.",
+        "type":"Phone",
+        "number":"1-800-662-4357"
+    },
+    {
+        "title": "National Domestic Violence Hotline",
+        "script":"Trained expert advocates available 24/7 to provide confidential support to anyone experiencing domestic violence or seeking resources and information.",
+        "type":"Phone",
+        "number":"1-800-799-7233"
+    },
+    {
+        "title": "NAMI",
+        "script": "Find information on symptoms of mental illness, treatment options, local support groups, and education.",
+        "type":"Phone",
+        "number":"1-800-950-6264"   
+    },
+    {
+        "title": "SARDAA",
+        "script": "Conference calls for schizoaffective diagnosed individuals. Separate conference calls also available for family/friend support.",
+        "type":"Phone",
+        "number":"240-423-9432"
+    },
+    {
+        "title":"Anxiety and Depression Association of America",
+        "script":"Provides information on prevention, treatment, and symptoms of anxiety, depression and related conditions.",
+        "type":"Web",
+        "url":"https://adaa.org/"
+    },
+    {
+        "title":"Depression and Bipolar Support Alliance",
+        "script":"Povides information on bipolar disorder and depression in addition to offering in-person and online support groups and forums.",
+        "type":"Web",
+        "url":"https://secure2.convio.net/dabsa/site/SPageServer/?pagename=home"
+    },
+    {
+        "title":"I'm Alive",
+        "script":"A live online network that uses instant messaging to respond to people in crisis.",
+        "type":"Web",
+        "url":"https://www.imalive.org/online/"
+    },
+    {
+        "title":"CHADD",
+        "script":"Provides information and referrals on ADHD, including local support groups.",
+        "type":"Web",
+        "url":"http://www.chadd.org/"
+    },
+    {
+        "title":"American Foundation for Suicide Prevention",
+        "script":"Connect with a representative for referrals to support groups, mental health professionals, resources on loss, and suicide prevention information.",
+        "type":"Web",
+        "url":"https://afsp.org/"
+    },
+    {
+        "title":"International OCD Foundation",
+        "script":"Provides information on OCD and treatment referrals.",
+        "type":"Web",
+        "url":"https://iocdf.org/"
+    }
+]
